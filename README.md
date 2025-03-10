@@ -1,5 +1,5 @@
 # Console-Based Simple Calculator
-# Console-Based Simple Calculator
+
 
 A simple calculator built in **VB.NET** that performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
